@@ -1,4 +1,4 @@
-# 🎮 colorsync memorush game: mindsync Game
+# 🎮  mindsync -Simon Says Memory Game
 
 A classic memory game where the computer flashes a growing sequence of colors and you have to repeat it perfectly. Every level adds one more step. One wrong click and it's game over!
 
